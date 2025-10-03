@@ -18,18 +18,18 @@ This project was created on Code.org's JavaLab platform using the built-in Neigh
 
 ## Output:
 
-
+![The output of my asphalt art project](Character.png)
 
 ## Reflection
 
 1. Describe your project.
 
-   - Write your response here...
+   - My project utilizes a 32x32 grid and paints a Character known as Rella (My own character). The image depicts my character doing a winking expression and is a head profile like usual art of characters, kind of like a profile picture.
 
 2. What are two things about your project that you are proud of?
 
-   - Write your response here...
+   - I like the comitment I did to get the project working, but for the project itself? Well, one would be the fact that the methods work with each other, and the second one being the different methods I tried and how I utilized them to make the art. 
 
 3. Describe something you would improve or do differently if you had an opportunity to change something about your project.
 
-   - Write your response here...
+   - Well, I must say the process of drawing the character with different methods was quite tedious, I would want to improve organization or the size of the project better.
